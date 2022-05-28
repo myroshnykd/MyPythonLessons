@@ -1,6 +1,7 @@
+# Data type(типи данних)
 # int 10 5 8 340 int - integer it's a whole number
 # float 1.1 3.5 10.78  67.9 it's a fraction number
-# str "hello" "2+2" "world" "meaning" str - string it's a text meaning
+# str "hello" "2+2" "world" "meaning" str - string it's a text meaning # input comes STR as default
 # bool True False bool  # boolian it's a either or combination
 
 
@@ -39,8 +40,8 @@
 
 # print(4 / 2)
 
-
-# a = int(input("enter value: ")) # INPUT function INT as a default has str meaning
+# змiннi(Variable)
+# a = int(input("enter value: ")) # INPUT function as a default has str meaning
 # print(type(a))  # TYPE restore type of the data back to the object
 
 # a = 1
@@ -66,3 +67,5 @@
 #
 # print("Hello, my name is", name, "im a", age, "years old and i'm from", city)
 # print("Hello, my name is " + name + " Im a " + str(age) + " years old and Im from " + city)
+
+# конгатинация строк

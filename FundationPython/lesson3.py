@@ -1,3 +1,4 @@
+# Маткматичнi оператори
 # +
 # -
 # *
@@ -22,6 +23,7 @@
 # print(9 % 4)
 # print(45 % 7)
 
+# операцii з присвоэнням
 # +=
 # -=
 # *=
@@ -72,5 +74,11 @@
 # word = input("Please enter word that you looking for: ")
 
 # print(word not in question)
+
+# word = input("Please enter word that you looking for: ")
+# sentence = input("please enter your sentence: ")
+
+# print(word in sentence)
+
 
 
